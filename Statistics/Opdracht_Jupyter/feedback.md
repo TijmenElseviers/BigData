@@ -7,3 +7,9 @@ Goed begonnen. Kan je...
 * Nog een correlatie en een normaalverdeling toevoegen
 
 ?
+
+Notebook aangepast:  
+* Heb uitleg toegevoegd
+* Gegevens afdrukken ingekort
+* Correlatie en normaalverdeling toegevoegd
+* Werk ook met pandas, aantal handige tools

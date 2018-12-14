@@ -13,3 +13,7 @@ Notebook aangepast:
 * Gegevens afdrukken ingekort
 * Correlatie en normaalverdeling toegevoegd
 * Werk ook met pandas, aantal handige tools
+
+# 14-12
+
+Mooi! Denk je nog aan een correlatie?
